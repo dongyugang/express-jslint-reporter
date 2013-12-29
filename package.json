@@ -1,6 +1,6 @@
 {
   "name": "express-jslint-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to render jslint errors.",
   "main": "index.js",
   "scripts": {
