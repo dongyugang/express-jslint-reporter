@@ -1,0 +1,32 @@
+{
+  "name": "express-jslint-reporter",
+  "version": "0.0.1",
+  "description": "Express middleware to render jslint errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:erktime/express-jslint-reporter.git"
+  },
+  "keywords": [
+    "express",
+    "jslint",
+    "jshint",
+    "node",
+    "node.js",
+    "javascript",
+    "reporting",
+    "error"
+  ],
+  "author": {
+    "name": "Aaron Erkenswick",
+    "email": "aaronerk@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "~0.4.0",
+    "ejs": "~0.8.5"
+  }
+}
